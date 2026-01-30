@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AllForOneApiJD")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b83ce71428310903f32aec3fca90d0aa3ac6604d")]
 [assembly: System.Reflection.AssemblyProductAttribute("AllForOneApiJD")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AllForOneApiJD")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

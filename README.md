@@ -11,6 +11,11 @@
 // Person who Peer Reviewed your assignment: {name}: ""
 
 
+
+// ----------------------------------BELOW ARE THE INSTRUCTIONS TO TEST EACH ENDPOINT OF THE API---------------------------------------------
+
+# All For One API
+
 > Replace the `{placeholders}` in the URL with your own values.
 
 ### AddingTwoNumbers
