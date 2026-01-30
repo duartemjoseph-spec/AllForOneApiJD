@@ -1,0 +1,7 @@
+C:\Users\littl\OneDrive\Documents\Academy\CodeStack Level2\Assignments Level2\AllForOneApiJD\bin\Debug\net9.0\AllForOneApiJD.exe
+C:\Users\littl\OneDrive\Documents\Academy\CodeStack Level2\Assignments Level2\AllForOneApiJD\bin\Debug\net9.0\AllForOneApiJD.dll
+C:\Users\littl\OneDrive\Documents\Academy\CodeStack Level2\Assignments Level2\AllForOneApiJD\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\littl\OneDrive\Documents\Academy\CodeStack Level2\Assignments Level2\AllForOneApiJD\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\littl\OneDrive\Documents\Academy\CodeStack Level2\Assignments Level2\AllForOneApiJD\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\littl\OneDrive\Documents\Academy\CodeStack Level2\Assignments Level2\AllForOneApiJD\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\littl\OneDrive\Documents\Academy\CodeStack Level2\Assignments Level2\AllForOneApiJD\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll

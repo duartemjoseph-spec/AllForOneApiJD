@@ -1,0 +1,6 @@
+@AllForOneApiJD_HostAddress = http://localhost:5195
+
+GET {{AllForOneApiJD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
